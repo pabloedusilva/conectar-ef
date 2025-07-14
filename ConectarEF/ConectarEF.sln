@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConectarEF", "ConectarEF.csproj", "{F6674E8B-667E-1187-3D02-CA84B114276F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6674E8B-667E-1187-3D02-CA84B114276F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6674E8B-667E-1187-3D02-CA84B114276F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6674E8B-667E-1187-3D02-CA84B114276F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6674E8B-667E-1187-3D02-CA84B114276F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E60464A-FD8F-43A3-9563-BE98D0C1DD25}
+	EndGlobalSection
+EndGlobal
